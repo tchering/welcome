@@ -12,10 +12,18 @@ body{
     font-family: 'Roboto', sans-serif;
     background-color: white;
 }
+
+.img{
+    position:absolute;
+    height: 6rem;
+    left: 15rem;
+}
 .logo{
-    font-size: 2em;
+    font-size: 3em;
     margin-left: 25px;
     letter-spacing: 15px;
+    font-weight: bolder;
+    color: rgb(26, 145, 224);
 }
 .navbar{
     display: flex;
